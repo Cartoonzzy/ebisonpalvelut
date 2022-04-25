@@ -1,0 +1,229 @@
+
+.jumbotron {
+  text-align: center;
+  background-color: white;
+}
+
+.jumbotron h1 {
+  color: #0377fc;
+  font-weight: bolder;
+  font-style: italic;
+
+}
+
+.navbar1 {
+  background-color: #0377fc;
+  margin-top:-2.5rem;
+}
+
+.navbar1 a {
+  color: white;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: center;
+  font-style:italic;
+  margin-bottom: 0px;
+  background-color: #0377fc;
+  color: white;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  font-weight: bold;
+}
+
+.footer a {
+  color: white;
+  font-weight: bold;
+}
+
+.contactForm {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  color: #0377fc;
+  font-weight: bold;
+}
+
+#contactHeader {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.morevisible1 {
+  color:  #0377fc;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.contactMap {
+  padding-top: 2rem;
+}
+
+.imageDiv {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.aboutusDiv {
+  margin-bottom: 2rem;
+}
+
+
+.divService {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  text-align:center;
+}
+
+.divService img {
+  border-radius:50%;
+  margin-top: 2rem;
+}
+
+.divService button {
+  color: white;
+  background-color: #0377fc;
+  font-weight: bolder;
+  border-radius: 10%;
+}
+
+.horizontal1 {
+  height: 0.25rem;
+  background-color: #0377fc;
+  width: 100%;
+}
+
+
+
+.divContainer {
+  background-color: white;
+  padding-bottom:5rem;
+}
+
+
+.carousel{
+    -moz-border-radius: 50%; /* FF1+ */
+    -webkit-border-radius: 50%; /* Saf3-4, iOS 1+, Android 1.5+ */
+    border-radius: 50%; /* Opera 10.5, IE9, Saf5, Chrome, FF4 */
+    overflow:hidden;
+    z-index: 1000;
+    margin-bottom: 2rem;
+  width:70%;
+  margin: 0 auto;
+
+}
+
+.carousel-item{
+    height: 6rems;
+
+}
+.carousel-item img{
+    height: 6rems;
+}
+
+.divCarousel {
+  padding-top:2rem;
+  padding-bottom:2rem;
+}
+
+.divOurCompany {
+  text-align:center;
+  margin-top: 2rem;
+  margin-bottom:4rem;
+ color: #0377fc;
+  font-style: bolder;
+}
+
+.div1 {
+  text-align:center;
+  padding-bottom:2rem;
+
+}
+
+.div1 .col-md-4{
+  flex:1;
+
+}
+
+.div1 img {
+  box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.div1 p {
+  padding-top: 2rem;
+  font-weight: bolder;
+  color: #0377fc;
+}
+
+#services {
+  text-align:center;
+  margin-bottom:2rem;
+  color:#0377fc;
+}
+
+#reviews {
+  text-align:center;
+  margin-top: 2rem;
+  color:#0377fc;
+}
+
+#contact {
+  text-align:center;
+  margin-top: 2rem;
+  margin-bottom:2rem;
+ color:#0377fc;
+}
+
+.div3 {
+ border-style:solid;
+ border-width:thick;
+ width:80%;
+ margin:0 auto;
+ padding-bottom:2rem;
+ border-color: #0377fc;
+ border-radius: 15px 80px;
+}
+
+.divAOC {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+}
+
+.divAOC h2 {
+  color: #0377fc;
+}
+
+.divAOC hr {
+
+  border-top: 1rem solid #0377fc;
+  width: 80%
+
+}
+
+.price .p1 {
+
+  border-radius: 100%;
+  color: #0377fc;
+  font-weight: bolder;
+  margin-top:2rem;
+}
+
+.price .p2 {
+  height: 4rem;
+  width: 4rem;
+  color: white;
+  padding-top: 1rem;
+  font-weight: bolder;
+  background-color:  #0377fc;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.priceDescription {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
